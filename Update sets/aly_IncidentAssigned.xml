@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-05-30 20:20:06">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>aly_IncidentAssigned</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>818d1febc3c583504841b7ddd4013122</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-30 20:20:05</sys_created_on>
+<sys_id>19ea2fa7c34983504841b7ddd40131fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-30 20:20:05</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_action_c9cd172fc3c583504841b7ddd401318c</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Uncategorized" name="Uncategorized"&gt;c97d83137f4432005f58108c3ffa917a&lt;/category&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition table="incident"&gt;assigned_toVALCHANGES^assigned_toISNOTEMPTY^EQ&lt;item endquery="false" field="assigned_to" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_digest&gt;false&lt;/default_digest&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digest_type&gt;single&lt;/digest_type&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name&gt;activate.life.cycle.migration&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;engine&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;table style="background-color: #f4f5f6; padding: 48px 16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;" border="0" width="100%" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;!-- Main Card Dashboard Style --&gt;
+&lt;div style="max-width: 560px; margin: 0 auto; background-color: #ffffff; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03); border: 1px solid #eef0f2;"&gt;&lt;!-- Decorative Top Border Accent --&gt;
+&lt;div style="background-color: #6366f1; height: 4px; font-size: 1px; line-height: 1px;"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;!-- Header Area --&gt;
+&lt;div style="padding: 40px 40px 24px 40px;"&gt;
+&lt;table border="0" width="100%" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1.2px; color: #6366f1; padding-bottom: 8px;"&gt;Incident Management&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;h1 style="font-size: 24px; font-weight: bold; color: #0f172a; margin: 0; tracking: -0.5px;"&gt;Incident Assigned to You&lt;/h1&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;!-- Content Body --&gt;
+&lt;div style="padding: 0 40px 40px 40px;"&gt;
+&lt;p style="font-size: 15px; line-height: 1.6; color: #475569; margin: 0 0 32px 0;"&gt;Hello ${assigned_to.name},&lt;br&gt;&lt;br&gt;An incident has been assigned to your queue. Please review the core details below and begin resolution within the established SLA window.&lt;/p&gt;
+&lt;!-- Sleek Minimalist Matrix - Separator lines completely removed for a flawless flow --&gt;
+&lt;div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 24px; margin-bottom: 32px;"&gt;
+&lt;table style="height: 123.944px;" border="0" width="100%" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 41.7778px;"&gt;
+&lt;td style="padding-bottom: 20px; height: 41.7778px;"&gt;&lt;span style="display: block; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #64748b; margin-bottom: 4px;"&gt;Incident Number&lt;/span&gt; &lt;!-- Drag &amp; Drop Incident Number Variable Here --&gt; &lt;span style="font-size: 16px; font-weight: 600; color: #0f172a;"&gt;${number}&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 41.7778px;"&gt;
+&lt;td style="padding-bottom: 20px; height: 41.7778px;"&gt;&lt;span style="display: block; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #64748b; margin-bottom: 4px;"&gt;Priority&lt;/span&gt; &lt;!-- Drag &amp; Drop Priority Variable Here --&gt; &lt;span style="font-size: 16px; font-weight: 600; color: #0f172a;"&gt;${priority}&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 40.3889px;"&gt;
+&lt;td style="height: 40.3889px;"&gt;&lt;span style="display: block; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #64748b; margin-bottom: 4px;"&gt;Short Description&lt;/span&gt; &lt;!-- Drag &amp; Drop Short Description Variable Here --&gt; &lt;span style="font-size: 15px; font-weight: 500; color: #334155; line-height: 1.4;"&gt;${short_description}&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;!-- Beautiful Action Section --&gt;
+&lt;table style="margin-bottom: 24px;" border="0" width="100%" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;!-- Background changed to #1e293b (lighter slate) to ensure the standard blue ServiceNow link pops beautifully --&gt;
+&lt;td class="sn-link-container" style="background-color: #857dde; border-radius: 6px; padding: 14px 24px; text-align: center;" align="center"&gt;
+&lt;p style="color: #ffffff !important; text-decoration: none; font-size: 14px; font-weight: 500; letter-spacing: 0.3px; display: block; width: 100%; margin: 0;"&gt;View Assigned Incident through this ${URI} ;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+Thanks for cooperation, &lt;br&gt;ServiceNow Team&lt;/div&gt;
+&lt;!-- Clean, Monospaced-feeling Footer --&gt;
+&lt;div style="background-color: #f8fafc; padding: 24px 40px; border-top: 1px solid #edf2f7; text-align: center;"&gt;
+&lt;table border="0" width="100%" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="font-size: 12px; line-height: 1.5; color: #94a3b8;"&gt;This is an automated operational routing from ServiceNow.&lt;br&gt;Technical issues? Contact the &lt;a style="color: #6366f1; text-decoration: none; font-weight: 500;" href="#"&gt;IT Service Desk&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;aly_IncidentAssigned&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields&gt;assigned_to&lt;/recipient_fields&gt;&lt;recipient_groups/&gt;&lt;recipient_users/&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;Incident ${number} assigned to you --${short_description}&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-30 19:35:59&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;c9cd172fc3c583504841b7ddd401318c&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;aly_IncidentAssigned&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_c9cd172fc3c583504841b7ddd401318c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-30 20:10:05&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template display_value="Unsubscribe and Preferences"&gt;7ed0481f3b0b2200c869c2c703efc487&lt;/template&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2071578446</payload_hash>
+<remote_update_set display_value="aly_IncidentAssigned">19ea2fa7c34983504841b7ddd40131fd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-30 20:20:05</sys_created_on>
+<sys_id>5dea2fa7c34983504841b7ddd40131fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7a82147f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-30 20:20:05</sys_updated_on>
+<table>incident</table>
+<target_name>aly_IncidentAssigned</target_name>
+<type>Notification</type>
+<update_domain>global</update_domain>
+<update_guid>3298a7a3044983506616c7fab99bae30</update_guid>
+<update_guid_history>3298a7a3044983506616c7fab99bae30:-2071578446,9c77a32345498350af1ad671dbd0d7db:-1803757477,93b5636b86098350c80f5dfa9b1e1bb4:1652164579,b085672f3009835074ee8815618fb375:1452644901,53c067a3fb098350155be759561177f3:-1404389812</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

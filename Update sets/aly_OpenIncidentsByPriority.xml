@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-05-31 18:09:14">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>aly_OpenIncidentsByPriority</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>63421884c35d07504841b7ddd40131da</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-31 18:09:13</sys_created_on>
+<sys_id>8686548cc35d07504841b7ddd40131c7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-31 18:09:13</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_visibility_56049488c35d07504841b7ddd401311b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility"><par_dashboard_visibility action="INSERT_OR_UPDATE"><dashboard display_value="aly_ServiceDeskDashboard">9a04d088c35d07504841b7ddd4013170</dashboard><experience display_value="Platform Analytics">08c73d60537101100834ddeeff7b1287</experience><sys_class_name>par_dashboard_visibility</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-31 17:58:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>56049488c35d07504841b7ddd401311b</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_visibility_56049488c35d07504841b7ddd401311b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-31 17:58:19</sys_updated_on></par_dashboard_visibility></record_update>]]></payload>
+<payload_hash>645127740</payload_hash>
+<remote_update_set display_value="aly_OpenIncidentsByPriority">8686548cc35d07504841b7ddd40131c7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-31 18:09:13</sys_created_on>
+<sys_id>0686d8ccc35d07504841b7ddd4013150</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7f2fcb820000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-31 18:09:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Visibility</type>
+<update_domain>global</update_domain>
+<update_guid>da0494885c5d0750ffad7f7d5def961e</update_guid>
+<update_guid_history>da0494885c5d0750ffad7f7d5def961e:645127740</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_tab_5a049488c35d07504841b7ddd4013111</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><background_color/><dashboard display_value="aly_ServiceDeskDashboard">9a04d088c35d07504841b7ddd4013170</dashboard><name>New Tab 3</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-31 17:58:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5a049488c35d07504841b7ddd4013111</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 3</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_tab_5a049488c35d07504841b7ddd4013111</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-31 17:58:18</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+<payload_hash>544157695</payload_hash>
+<remote_update_set display_value="aly_OpenIncidentsByPriority">8686548cc35d07504841b7ddd40131c7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-31 18:09:13</sys_created_on>
+<sys_id>0a86548cc35d07504841b7ddd40131c9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7f2fca510000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-31 18:09:13</sys_updated_on>
+<table/>
+<target_name>New Tab 3</target_name>
+<type>PAR Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>d2049488d75d0750aa787c53ebd70815</update_guid>
+<update_guid_history>d2049488d75d0750aa787c53ebd70815:544157695</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_d2049488c35d07504841b7ddd401310c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="aly_ServiceDeskDashboard">9a04d088c35d07504841b7ddd4013170</dashboard><dashboard_tab/><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-31 17:58:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d2049488c35d07504841b7ddd401310c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_canvas_d2049488c35d07504841b7ddd401310c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-31 17:58:18</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>1853589998</payload_hash>
+<remote_update_set display_value="aly_OpenIncidentsByPriority">8686548cc35d07504841b7ddd40131c7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-31 18:09:13</sys_created_on>
+<sys_id>4a86548cc35d07504841b7ddd40131c8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7f2fca170000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-31 18:09:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>d6049488ba5d0750fcdffbc7e2dadc0f</update_guid>
+<update_guid_history>d6049488ba5d0750fcdffbc7e2dadc0f:1853589998</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_27a49cc8c35d07504841b7ddd4013162</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">d2049488c35d07504841b7ddd4013117</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-primary","label":"Visual overview of all open Incidents grouped by Priority","wontWrap":false,"hasNoMargin":true,"level":"1","align":"start"}</component_props><h>3</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-31 18:01:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>27a49cc8c35d07504841b7ddd4013162</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_widget_27a49cc8c35d07504841b7ddd4013162</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-31 18:02:32</sys_updated_on><visualization/><w>34</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>4428908</payload_hash>
+<remote_update_set display_value="aly_OpenIncidentsByPriority">8686548cc35d07504841b7ddd40131c7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-31 18:09:13</sys_created_on>
+<sys_id>4a86d8ccc35d07504841b7ddd4013150</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7f33a8f50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-31 18:09:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>5005100cb75d075060acbbf60af38985</update_guid>
+<update_guid_history>5005100cb75d075060acbbf60af38985:4428908,67a49cc8475d07504483719b01aa6164:1443057401</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_user_metadata_84a869b537ee451d9786711e5c22a7bf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><background_color/><cache_expiration_time>0</cache_expiration_time><card_bg_image/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2024-01-17 18:36:51</created_on><dashboard display_value="Asset Overview">e74fa8bb1b7dcb2559723b7f5e6cc339</dashboard><edit_locked>{"sysId":"6816f79cc0a8016401c5a33be04be441","name":"System Administrator","avatar":"a5d3c898c3222010ae17dd981840dd8b.iix?t=small","lockedOn":"1780250710730"}</edit_locked><enable_data_cache>false</enable_data_cache><include_custom_insights>false</include_custom_insights><include_key_contributors>false</include_key_contributors><include_kpi_signals>false</include_kpi_signals><include_predictive_target>false</include_predictive_target><include_predictive_thresholds>false</include_predictive_thresholds><include_process_mining>false</include_process_mining><include_severity>false</include_severity><include_target>false</include_target><include_thresholds>false</include_thresholds><include_trends>false</include_trends><include_widget_notification>false</include_widget_notification><last_deactivated_on/><last_updated_on>2024-02-08 08:53:37</last_updated_on><po_project_id_list/><refresh_information>false</refresh_information><refresh_interval>-1</refresh_interval><requested_by_user/><schedule_repetition>false</schedule_repetition><show_insights_panel>false</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-17 18:36:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>84a869b537ee451d9786711e5c22a7bf</sys_id><sys_mod_count>44</sys_mod_count><sys_name/><sys_overrides/><sys_package/><sys_policy/><sys_scope/><sys_update_name>par_dashboard_user_metadata_84a869b537ee451d9786711e5c22a7bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-31 18:05:10</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user><use_custom_tab_colors>false</use_custom_tab_colors><widgets_margin/></par_dashboard_user_metadata></record_update>]]></payload>
+<payload_hash>-1609117943</payload_hash>
+<remote_update_set display_value="aly_OpenIncidentsByPriority">8686548cc35d07504841b7ddd40131c7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-31 18:09:13</sys_created_on>
+<sys_id>8a86d8ccc35d07504841b7ddd401314f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7f3612e90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-31 18:09:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Metadata</type>
+<update_domain>global</update_domain>
+<update_guid>b295984cae5d0750c411324c12bbaa81</update_guid>
+<update_guid_history>b295984cae5d0750c411324c12bbaa81:-1609117943,3295984cff5d0750db32f5dbf1e1647d:199165069,5f75584cc85d0750b9d431da2faa4838:362833579,5b75584c6c5d07507eaad16a28925936:-1527423270</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_d2049488c35d07504841b7ddd4013117</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="aly_ServiceDeskDashboard">9a04d088c35d07504841b7ddd4013170</dashboard><dashboard_tab display_value="New Tab 3">5a049488c35d07504841b7ddd4013111</dashboard_tab><layout>[{"sys_id":"27a49cc8c35d07504841b7ddd4013162","x":0,"y":0,"w":34,"h":3,"component_id":"1f6e0643eca7a637e36bd7833549ec9e","component_props":"{\"variant\":\"header-primary\",\"label\":\"Visual overview of all open Incidents grouped by Priority\",\"wontWrap\":false,\"hasNoMargin\":true,\"level\":\"1\",\"align\":\"start\"}","can_edit":true},{"sys_id":"6ba49cc8c35d07504841b7ddd401315b","x":0,"y":3,"w":34,"h":22,"name":"aly_OpenIncidentsByPriority","component_id":"23051643b7e03010097cb81cde11a910","component_props":"{\"selectedElements\":[],\"chartVariation\":\"stacked\",\"yAxisPosition\":\"bottom\",\"yAxisShowGrid\":true,\"xAxisWrapLabels\":false,\"xAxisMaxLabelSize\":100,\"showClosestSeriesOnHover\":false,\"xAxisTruncationType\":\"end\",\"yAxisStyle\":\"default\",\"showLegend\":true,\"showLegendValue\":false,\"legendPosition\":\"bottom\",\"legendHorizontalAlignment\":\"center\",\"legendExpandToFit\":false,\"showDataLabels\":false,\"dataLabelPosition\":\"middle\",\"showStackedValues\":\"none\",\"showOverlappingLabels\":false,\"yAxisHidden\":false,\"xAxisHidden\":false,\"newReporting\":false,\"enableAddZerosAtApi\":true,\"additionalGroupByConfig\":[],\"showHeader\":true,\"showTotalAggregate\":false,\"showSubAggregate\":false,\"showFirstGroupAggregate\":false,\"showSecondGroupAggregate\":false,\"hideMatrixAggregate\":false,\"wrapTitle\":false,\"showLoadingIndicator\":false,\"showHeaderSeparator\":false,\"contextMenuActions\":[],\"headingLevel\":2,\"showBorder\":true,\"bareBorder\":false,\"telemetry\":null,\"showDataPassthrough\":false,\"refreshRequest\":\"\",\"showAdditionalGroupBySelector\":false,\"allowAdditionalGroupByPerMetric\":false,\"dataPassthrough\":null,\"sortByOrder\":\"desc\",\"showChange\":null,\"showChangePercentage\":null,\"showTarget\":false,\"showForecast\":false,\"showForecastRange\":false,\"showTrend\":false,\"showConfidenceBand\":false,\"showGapPercentage\":null,\"showSparkline\":false,\"showMetricLabel\":null,\"showThreshold\":false,\"showComment\":false,\"followFilters\":true,\"showFilterIcon\":true,\"enableRealTimeUpdate\":false,\"enableDrilldown\":true,\"enableClickAndStay\":false,\"showDataTable\":false,\"enableCustomEmptyState\":false,\"emptyStateIllustration\":\"no-data\",\"emptyStateHeading\":\"No data available.\",\"emptyStateHeadingLevel\":3,\"emptyStateContent\":\"There are no scores available for the selected criteria. Contact your admin for more info.\",\"emptyStateAlignment\":\"vertical-centered\",\"hideDevSettings\":false,\"configPropModifiers\":{},\"showMaximumRange\":false,\"allowChangeDateRange\":false,\"showDateRangeByDefault\":false,\"applyDateRange\":false,\"numberOfPeriods\":3,\"showAbsolutePeriod\":false,\"scoreType\":null,\"showChangeFrom\":null,\"useCurrentDateForEnd\":false,\"period\":null,\"useDataCache\":false,\"cacheExpirationTime\":0,\"showCacheTime\":true,\"dateFormat\":\"default\",\"showRefresh\":true,\"showFilterAsSeparateSeries\":false,\"userInfo\":\"@context.session.user\",\"sharedContext\":{},\"colors\":{},\"filterConfigurations\":[],\"dataSources\":[{\"isDatabaseView\":false,\"allowRealTime\":true,\"label\":\"Incident\",\"sourceType\":\"table\",\"tableOrViewName\":\"incident\",\"filterQuery\":\"active=true^ORstateNOT IN7,8\",\"preferredVisualizations\":[\"d24d53f60350de7a652caf3188a46ed2\"],\"id\":\"dGFibGVpbmNpZGVudDE3ODAyNTAwNTA1NTk=\",\"dataCategories\":[\"trend\",\"group\",\"simple\"]}],\"componentId\":\"5c6k50zu\",\"filterPerMetric\":[],\"sortBy\":\"value\",\"configVersion\":\"23.0.0-ci-SNAPSHOT\",\"metrics\":[{\"dataSource\":\"dGFibGVpbmNpZGVudDE3ODAyNTAwNTA1NTk=\",\"id\":\"ZEdGaWJHVnBibU5wWkdWdWRERTNPREF5TlRBd05UQTFOVGs9MTc4MDI1MDA1OTUwOQ==\",\"aggregateFunction\":\"COUNT\",\"numberFormat\":{\"customFormat\":false},\"axisId\":\"primary\"}],\"rangesConfig\":{},\"colorConfig\":{\"type\":\"default\"},\"trendBy\":null,\"groupBy\":[{\"groupBy\":[{\"dataSource\":\"dGFibGVpbmNpZGVudDE3ODAyNTAwNTA1NTk=\",\"groupByField\":\"priority\",\"isRange\":false,\"isChoice\":true,\"isPaBucket\":false}],\"maxNumberOfGroups\":10,\"numberOfGroupsBasedOn\":\"NO_OF_GROUP_BASED_ON_PER_METRIC\",\"showOthers\":false,\"disableRanges\":false}]}","stored_component":"26d35848c35d07504841b7ddd40131d1","can_edit":true}]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-31 17:58:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d2049488c35d07504841b7ddd4013117</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_canvas_d2049488c35d07504841b7ddd4013117</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-31 18:02:32</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>216838298</payload_hash>
+<remote_update_set display_value="aly_OpenIncidentsByPriority">8686548cc35d07504841b7ddd40131c7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-31 18:09:13</sys_created_on>
+<sys_id>8e86548cc35d07504841b7ddd40131c8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7f33a9480000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-31 18:09:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>5805180cde5d07503c2aacab2b4249f3</update_guid>
+<update_guid_history>5805180cde5d07503c2aacab2b4249f3:216838298,2ba49cc8c95d0750fa8eb36a27c79b6b:1621426397,16049488ee5d07501fb8a526b21db219:-1729292680</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_6ba49cc8c35d07504841b7ddd401315b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">d2049488c35d07504841b7ddd4013117</canvas><component display_value="Vertical bar">23051643b7e03010097cb81cde11a910</component><component_props>{"selectedElements":[],"chartVariation":"stacked","yAxisPosition":"bottom","yAxisShowGrid":true,"xAxisWrapLabels":false,"xAxisMaxLabelSize":100,"showClosestSeriesOnHover":false,"xAxisTruncationType":"end","yAxisStyle":"default","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"showDataLabels":false,"dataLabelPosition":"middle","showStackedValues":"none","showOverlappingLabels":false,"yAxisHidden":false,"xAxisHidden":false,"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"sortByOrder":"desc","showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":false,"showMetricLabel":null,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"configPropModifiers":{},"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":null,"useCurrentDateForEnd":false,"period":null,"useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","sharedContext":{},"colors":{},"filterConfigurations":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Incident","sourceType":"table","tableOrViewName":"incident","filterQuery":"active=true^ORstateNOT IN7,8","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGVpbmNpZGVudDE3ODAyNTAwNTA1NTk=","dataCategories":["trend","group","simple"]}],"componentId":"5c6k50zu","filterPerMetric":[],"sortBy":"value","configVersion":"23.0.0-ci-SNAPSHOT","metrics":[{"dataSource":"dGFibGVpbmNpZGVudDE3ODAyNTAwNTA1NTk=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNPREF5TlRBd05UQTFOVGs9MTc4MDI1MDA1OTUwOQ==","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"rangesConfig":{},"colorConfig":{"type":"default"},"trendBy":null,"groupBy":[{"groupBy":[{"dataSource":"dGFibGVpbmNpZGVudDE3ODAyNTAwNTA1NTk=","groupByField":"priority","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}]}</component_props><h>22</h><name>aly_OpenIncidentsByPriority</name><stored_component display_value="aly_OpenIncidentsByPriority">26d35848c35d07504841b7ddd40131d1</stored_component><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-31 18:01:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6ba49cc8c35d07504841b7ddd401315b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>aly_OpenIncidentsByPriority</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_widget_6ba49cc8c35d07504841b7ddd401315b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-31 18:01:07</sys_updated_on><visualization/><w>34</w><widget_props/><x>0</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>-2086249450</payload_hash>
+<remote_update_set display_value="aly_OpenIncidentsByPriority">8686548cc35d07504841b7ddd40131c7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-31 18:09:13</sys_created_on>
+<sys_id>8e86d8ccc35d07504841b7ddd4013150</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7f325dcf0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-31 18:09:13</sys_updated_on>
+<table/>
+<target_name>aly_OpenIncidentsByPriority</target_name>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>a7a49cc8575d0750122a1db4ed062e60</update_guid>
+<update_guid_history>a7a49cc8575d0750122a1db4ed062e60:-2086249450</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_permission_d204d088c35d07504841b7ddd4013176</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="aly_ServiceDeskDashboard">9a04d088c35d07504841b7ddd4013170</dashboard><group/><owner>true</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-31 17:58:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d204d088c35d07504841b7ddd4013176</sys_id><sys_mod_count>0</sys_mod_count><sys_name>9a04d088c35d07504841b7ddd4013170</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_permission_d204d088c35d07504841b7ddd4013176</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-31 17:58:18</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+<payload_hash>-1026770945</payload_hash>
+<remote_update_set display_value="aly_OpenIncidentsByPriority">8686548cc35d07504841b7ddd40131c7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-31 18:09:13</sys_created_on>
+<sys_id>c286548cc35d07504841b7ddd40131c9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7f2fc9920000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-31 18:09:13</sys_updated_on>
+<table/>
+<target_name>9a04d088c35d07504841b7ddd4013170</target_name>
+<type>PAR Dashboard Permission</type>
+<update_domain>global</update_domain>
+<update_guid>1e049488fa5d07509b1b1ad41e4d8502</update_guid>
+<update_guid_history>1e049488fa5d07509b1b1ad41e4d8502:-1026770945</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_visualization_26d35848c35d07504841b7ddd40131d1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_visualization"><par_visualization action="INSERT_OR_UPDATE"><active>true</active><certified>false</certified><description/><macroponent display_value="Vertical bar">23051643b7e03010097cb81cde11a910</macroponent><name>aly_OpenIncidentsByPriority</name><properties>{"selectedElements":[],"chartVariation":"stacked","yAxisPosition":"bottom","yAxisShowGrid":true,"xAxisWrapLabels":false,"xAxisMaxLabelSize":100,"showClosestSeriesOnHover":false,"xAxisTruncationType":"end","yAxisStyle":"default","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"showDataLabels":false,"dataLabelPosition":"middle","showStackedValues":"none","showOverlappingLabels":false,"yAxisHidden":false,"xAxisHidden":false,"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"dataPassthrough":null,"sortByOrder":"desc","showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":false,"showMetricLabel":null,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"configPropModifiers":{},"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":null,"useCurrentDateForEnd":false,"period":null,"useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","sharedContext":{},"colors":{},"filterConfigurations":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Incident","sourceType":"table","tableOrViewName":"incident","filterQuery":"active=true^ORstateNOT IN7,8","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGVpbmNpZGVudDE3ODAyNTAwNTA1NTk=","dataCategories":["trend","group","simple"]}],"componentId":"5c6k50zu","filterPerMetric":[],"sortBy":"value","configVersion":"23.0.0-ci-SNAPSHOT","metrics":[{"dataSource":"dGFibGVpbmNpZGVudDE3ODAyNTAwNTA1NTk=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNPREF5TlRBd05UQTFOVGs9MTc4MDI1MDA1OTUwOQ==","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"rangesConfig":{},"colorConfig":{"type":"default"},"trendBy":null,"groupBy":[{"groupBy":[{"dataSource":"dGFibGVpbmNpZGVudDE3ODAyNTAwNTA1NTk=","groupByField":"priority","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}]}</properties><requested_by/><scheduled_count>0</scheduled_count><sys_class_name>par_visualization</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-31 17:57:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>26d35848c35d07504841b7ddd40131d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>aly_OpenIncidentsByPriority</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_visualization_26d35848c35d07504841b7ddd40131d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-31 17:57:30</sys_updated_on><type>Vertical bar</type></par_visualization></record_update>]]></payload>
+<payload_hash>1812857179</payload_hash>
+<remote_update_set display_value="aly_OpenIncidentsByPriority">8686548cc35d07504841b7ddd40131c7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-31 18:09:13</sys_created_on>
+<sys_id>c286d8ccc35d07504841b7ddd4013151</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7f2f0e390000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-31 18:09:13</sys_updated_on>
+<table/>
+<target_name>aly_OpenIncidentsByPriority</target_name>
+<type>PAR Visualization</type>
+<update_domain>global</update_domain>
+<update_guid>2ed35848ce5d0750d4b3896aa605cfd6</update_guid>
+<update_guid_history>2ed35848ce5d0750d4b3896aa605cfd6:1812857179</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_9a04d088c35d07504841b7ddd4013170</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard"><par_dashboard action="INSERT_OR_UPDATE"><active>true</active><base_dashboard/><certified>false</certified><description/><experience/><grid>48</grid><name>aly_ServiceDeskDashboard</name><sys_class_name>par_dashboard</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-31 17:58:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9a04d088c35d07504841b7ddd4013170</sys_id><sys_mod_count>2</sys_mod_count><sys_name>aly_ServiceDeskDashboard</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_9a04d088c35d07504841b7ddd4013170</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-31 18:02:32</sys_updated_on><sys_ux_app_config/><sys_ux_app_route/><sys_ux_macroponent/><sys_ux_screen/><sys_ux_screen_type/></par_dashboard></record_update>]]></payload>
+<payload_hash>-1340036130</payload_hash>
+<remote_update_set display_value="aly_OpenIncidentsByPriority">8686548cc35d07504841b7ddd40131c7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-31 18:09:13</sys_created_on>
+<sys_id>ca86548cc35d07504841b7ddd40131c7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7f33a89a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-31 18:09:13</sys_updated_on>
+<table/>
+<target_name>aly_ServiceDeskDashboard</target_name>
+<type>PAR Dashboard</type>
+<update_domain>global</update_domain>
+<update_guid>4805100c985d0750f458b2efdd0e7c7e</update_guid>
+<update_guid_history>4805100c985d0750f458b2efdd0e7c7e:-1340036130,5604d088b65d0750a5e4edf9b8a69874:-1340036130</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_user_metadata_9a049488c35d07504841b7ddd4013104</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><background_color/><cache_expiration_time>24</cache_expiration_time><card_bg_image/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2026-05-31 17:58:18</created_on><dashboard display_value="aly_ServiceDeskDashboard">9a04d088c35d07504841b7ddd4013170</dashboard><edit_locked>{"sysId":"6816f79cc0a8016401c5a33be04be441","name":"System Administrator","avatar":"a5d3c898c3222010ae17dd981840dd8b.iix?t=small","lockedOn":"1780250538313"}</edit_locked><enable_data_cache>false</enable_data_cache><include_custom_insights>true</include_custom_insights><include_key_contributors>true</include_key_contributors><include_kpi_signals>true</include_kpi_signals><include_predictive_target>true</include_predictive_target><include_predictive_thresholds>true</include_predictive_thresholds><include_process_mining>true</include_process_mining><include_severity>true</include_severity><include_target>true</include_target><include_thresholds>true</include_thresholds><include_trends>true</include_trends><include_widget_notification>true</include_widget_notification><last_deactivated_on/><last_updated_on>2026-05-31 18:02:32</last_updated_on><po_project_id_list>[]</po_project_id_list><refresh_information>false</refresh_information><refresh_interval/><requested_by_user/><schedule_repetition>false</schedule_repetition><show_insights_panel>true</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-31 17:58:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9a049488c35d07504841b7ddd4013104</sys_id><sys_mod_count>5</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_user_metadata_9a049488c35d07504841b7ddd4013104</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-31 18:02:32</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user><use_custom_tab_colors>false</use_custom_tab_colors><widgets_margin/></par_dashboard_user_metadata></record_update>]]></payload>
+<payload_hash>2145553093</payload_hash>
+<remote_update_set display_value="aly_OpenIncidentsByPriority">8686548cc35d07504841b7ddd40131c7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-31 18:09:13</sys_created_on>
+<sys_id>ce86d8ccc35d07504841b7ddd401314f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7f33a9cf0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-31 18:09:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Metadata</type>
+<update_domain>global</update_domain>
+<update_guid>1005180cc55d07509e1d12521d86b7fb</update_guid>
+<update_guid_history>1005180cc55d07509e1d12521d86b7fb:2145553093,38f4d40cad5d07503b7837adb54faf28:-1669835711,b8f4d40c975d07503b5a7c6072a65723:1506606818,bdd4140c425d0750d1f4b31987f6bd09:734526012,a7a49cc8035d0750929eac1f0f742474:943012960,96049488765d0750e869abb9582c840a:1629424937</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
